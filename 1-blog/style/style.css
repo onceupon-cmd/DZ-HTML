@@ -1,0 +1,81 @@
+html,
+body {
+  background: linear-gradient(180deg, rgb(55, 65, 81), rgb(17, 24, 39) 100%);
+}
+.big {
+  color: rgb(255, 255, 255);
+  font-family: Source Sans Pro;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+}
+.ul1 .li {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+}
+
+.search::placeholder {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  opacity: 0.6;
+}
+.search {
+  background: rgba(31, 41, 55, 0.6);
+}
+.topic_date {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  opacity: 0.6;
+}
+h1 {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 38px;
+}
+.name {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}
+.profession {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 28px;
+  opacity: 0.6;
+}
+.p1 {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+}
+.p2 {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.foot {
+  opacity: 0.6;
+  color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+}
